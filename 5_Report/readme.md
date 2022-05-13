@@ -6,11 +6,12 @@ The current framework utilizes a control tail to initiate the wiper and the most
 In this task, there were two advancements checked on as the writing survey. The two were planned with various ideas and working component anyway with same goal of working standard of the vehicle wiper. The downpour sensor was a profoundly adaptable gadget for programmed cleaning of vehicle windscreen when it is wet because of dampness, raindrops or even mud. It worked by mirroring amicable light pillars inside the windscreen. Whenever raindrops fall onto the windscreen, this amicability light is upset and making a drop in the light bar force. The framework then, at that point, initiated the wipers to be worked in full programmed mode. It makes some reaction memories of 0.1 seconds. It considered a speedy response when an abrupt sprinkles of water will make the driver thoroughly 'blinds' when the circumstance occurred. With the programmed wiper, the driver can deflect the gamble of a mishap. The programmed wiper is significant during weighty traffic, for example around, city, school zone and other public spots. A driver might be exposed to numerous interruptions with awful climate, perilous street conditions and weariness. The Rain Sensor diminished the driver's weight by making driving more agreeable. Following a wet vehicle is as of now not an annoyance as location of even 0.005 milliliters of water is conceivable.
 
 # COMPONENTS AND SUPPLIES:
-1.STM32F407 Discovery Board
-2.LEDs
-3.Push Button
-4.Resistors
-5.Power Supply
+
+ 1. STM32F407 Discovery Board
+ 2. LEDs
+ 3. Push Button
+ 4. Resistors
+ 5. Power Supply
 
 # ADVANTAGES:
 * Rain sensors store water during rain events, allowing it to be available throughout the summer and winter.
