@@ -13,6 +13,28 @@ In this task, there were two advancements checked on as the writing survey. The 
  4. Resistors
  5. Power Supply
 
+ # Description
+ 
+   1. STM32F407VG
+ 
+ * The STM32F405xx and STM32F407xx family is based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 168 MHz. The Cortex-M4 core features a Floating point unit (FPU) single precision which supports all Arm single-precision data-processing instructions and data types. It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances application security. The STM32F405xx and STM32F407xx family incorporates high-speed embedded
+
+   2. LED
+  
+  * A light-emitting diode (LED) is a semiconductor light source that emits light when current flows through it. Electrons in the semiconductor recombine with electron holes, releasing energy in the form of photons
+
+   3. Push Button
+  
+  * Push buttons can be explained as simple power controlling switches of a machine or appliance. These are generally metal or thermoplastic switches that are    intended to grant easy access to the user.
+  
+   4. Resistors
+  
+  * A resistor controls the flow of the electrical current within a circuit. Resistors are made from materials like copper or carbon, which make it difficult for the electrical charges to flow through a circuit.
+  
+   5. Power Supply
+  
+  * A power supply is an electronic circuit that converts the voltage of an alternating current (AC) into a direct current (DC) voltage. It is basically consisting of the following elements: transformer, rectifier, filter and regulator circuits.
+
 # ADVANTAGES:
 * Rain sensors store water during rain events, allowing it to be available throughout the summer and winter.
 * It is quite simple to use.
