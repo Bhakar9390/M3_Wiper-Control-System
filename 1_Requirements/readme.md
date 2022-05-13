@@ -1,14 +1,35 @@
- # SOFTWARE REQUIREMENTS
+# SOFTWARE REQUIREMENTS
    * STM32 IDE
  
- # COMPONENTS
-   * STM32F407VG MICROCONTROLLER BOARD
+# COMPONENTS AND SUPPLIES:
+ 1. STM32F407
+ 2. LEDs
+ 3. Push Button
+ 4. Resistors
+ 5. Power Supply
  
  # DESCRIPTION
-   * STM32F407VG
+ 
+   1. STM32F407VG
  
  * The STM32F405xx and STM32F407xx family is based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 168 MHz. The Cortex-M4 core features a Floating point unit (FPU) single precision which supports all Arm single-precision data-processing instructions and data types. It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances application security. The STM32F405xx and STM32F407xx family incorporates high-speed embedded
- 
+
+  2. LED
+  
+  * A light-emitting diode (LED) is a semiconductor light source that emits light when current flows through it. Electrons in the semiconductor recombine with electron holes, releasing energy in the form of photons
+
+   3. Push Button
+  
+  * Push buttons can be explained as simple power controlling switches of a machine or appliance. These are generally metal or thermoplastic switches that are    intended to grant easy access to the user.
+  
+   4. Resistors
+  
+  * A resistor controls the flow of the electrical current within a circuit. Resistors are made from materials like copper or carbon, which make it difficult for the electrical charges to flow through a circuit.
+  
+   5. Power Supply
+  
+  * A power supply is an electronic circuit that converts the voltage of an alternating current (AC) into a direct current (DC) voltage. It is basically consisting of the following elements: transformer, rectifier, filter and regulator circuits.
+  
  # FEATURES OF STM32F407VG MICROCONTROLLER
    * Up to 1 Mbyte of Flash memory.
    * Up to 192+4 Kbytes of SRAM including 64-Kbyte of CCM (core coupled memory) data RAM.
@@ -21,44 +42,42 @@
  
  # USES
  
- # 4W & H (WHO,WHAT,WHEN,WHERE,HOW)
- 
- # WHAT
- 
-  * The operational speed of a vehicle wiper is controlled by a wiper speed control mechanism based on rain conditions. To generate, the control system incorporates a rain sensor (30) that detects rain conditions. The amplitude of an analogue signal depends on the detected rain conditions.
+ # 4W & H (WHO,WHAT,WHEN,WHERE,HOW):
 
- # WHY
-  * To keep the windscreen clean enough to give adequate view at all times. #WHEN The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
+# WHAT:
+* The functional speed of a vehicle wiper is constrained by a wiper speed control instrument in view of downpour conditions. To produce, the control framework consolidates a downpour sensor (30) that identifies downpour conditions. The adequacy of a simple sign relies upon the identified downpour conditions.
 
- # WHO
-  * Mark Anderson invented on 1902
+# WHY:
+* To keep the windscreen clean enough to give adequate view at all times. 
+* The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
 
- # SWOT ANALYSIS
- 
- # STRENGTH
- 
- * Low Budget
- * Good Reputation
- * High Bargaining Power Supliers
- * Big Influence on the Market
+# WHO:
+* A wiper speed control system for an automobile manages the wiper's functioning speed in response to weather conditions.
 
- # WEAKNESS
+# HOW:
+* You can adjust the speed of the car wiper system according to the rainfall.
 
- * Structural Inertia
- * High Transaction Cost
- * No Focus on Private Sector
- * Week Focus on Process Innovations
- 
- # OPPRONUTIES
- 
- * Emerging New Markets
- * Technological Development
- * Demand for Saver Equipments
- * Technological Lock in of Product
+ # SWOT ANALYSIS:
+# STRENGTH:
+* Good Reputation
+* Big Influence on the Market
+* High Bargaining Power Supliers
+* Low Budget
 
- # THREATS
- 
- * Low Bargaining Power Buyers
- * Highly REgulated Industry
- * Ethical Pressure
- * Econimical Crisis
+# WEAKNESS:
+* Week Focus on Process Innovations
+* High Transaction Cost
+* Structural Inertia
+* No Focus on Private Sector
+
+# OPPRONUTIES:
+* Technological Lock in of Product
+* Technological Development
+* Demand for Saver Equipments
+* Emerging New Markets
+
+# THREATS:
+* Highly REgulated Industry
+* Ethical Pressure
+* Low Bargaining Power Buyers
+* Econimical Crisis
