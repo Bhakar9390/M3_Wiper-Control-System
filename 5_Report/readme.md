@@ -50,7 +50,12 @@ In this task, there were two advancements checked on as the writing survey. The 
  | HL3    | Car on and off                | Implemented |
  
 # LOW LEVEL REQUIREMENTS:
-![Low level requirements](https://user-images.githubusercontent.com/101699116/168214457-7e9ce52c-50fc-42bf-904b-d092b3f904b3.png)
+
+  |ID	     |Description	        |Status     |
+  | -----  | -----------        | ----------|
+  |HL1-LL1	|Push Button	        |Implemented|
+  |HL2-LL2	|Red,Green,Blue Leds |Implemented|
+  
 # SWOT ANALYSIS:
 # STRENGTH:
 * Good Reputation
