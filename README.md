@@ -8,4 +8,4 @@
 
 # Cpp check Analysis ![cpp check Analysis]()
 
-# Build Linux ![Build Linux]()
+# Build Linux ![Build Linux](https://github.com/Bhakar9390/M3_Wiper-Control-System/actions/workflows/built%20on%20linux.yml/badge.svg)
