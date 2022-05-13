@@ -1,6 +1,6 @@
 # M3_Wiper-Control-System
 
-# Codacy Badge ![Codacy Badge]()
+# Codacy Badge [![Codacy Badge](https://app.codacy.com/project/badge/Grade/666355b178ab4f5f9f530dde7c234fe2)](https://www.codacy.com/gh/Bhakar9390/M3_Wiper-Control-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bhakar9390/M3_Wiper-Control-System&amp;utm_campaign=Badge_Grade)
 
 # Code Quality Score ![Code Quality Score](https://api.codiga.io/project/33383/score/svg)
 
