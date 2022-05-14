@@ -13,21 +13,21 @@
 # OUTPUT IMAGES:
 1.user button and hold it for two seconds
 
-![image](https://user-images.githubusercontent.com/101699116/168215381-5ecc8142-9d24-4736-8735-bc312903aa7d.png)
+![1](https://user-images.githubusercontent.com/102800244/168420960-d2abbf34-a63b-48dd-bb1f-23a686ea0fb2.jpeg)
 
 2.WIPER SPEED LOW
 
-![image](https://user-images.githubusercontent.com/101699116/168215423-e3d86028-68c5-47ce-aecc-96c930a879df.png)
+![2](https://user-images.githubusercontent.com/102800244/168420962-9788899c-5b09-4d8c-a165-56544193cc4a.jpeg)
 
 3.WIPER SPEED MEDIUM
 
-![image](https://user-images.githubusercontent.com/101699116/168215452-9ec26809-fa7a-445d-a48c-f0a421172afe.png)
+![3](https://user-images.githubusercontent.com/102800244/168420963-3ecb3384-8f55-4ff7-8185-9567e7d58024.jpeg)
 
 4.WIPER SPEED IS HIGH
 
-![image](https://user-images.githubusercontent.com/101699116/168215482-7f1316c6-23bf-4b6a-ad76-59bd2606e306.png)
+![4](https://user-images.githubusercontent.com/102800244/168420964-64b3889a-5436-4c2d-8544-c0a7f3affbe6.jpeg)
 
 
 5.user button is pressed and held for 2 seconds, the red LED is off
 
-![image](https://user-images.githubusercontent.com/101699116/168215572-07fc1962-aa78-46a6-a1e3-71e4326f809d.png)
+![5](https://user-images.githubusercontent.com/102800244/168420965-11e6dd80-4a8c-450c-84f9-60529251751f.jpeg)
