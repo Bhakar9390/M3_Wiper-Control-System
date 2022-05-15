@@ -130,3 +130,7 @@ Please find the STM32F4 Discovery User Manual,STM32F4xxx Reference Manual (RM009
 5.user button is pressed and held for 2 seconds, the red LED is off
 
 ![image](https://user-images.githubusercontent.com/101699116/168215572-07fc1962-aa78-46a6-a1e3-71e4326f809d.png)
+
+6.WIPER_SYSTEM 1
+
+![168320244-c6eb2349-efe1-480f-bcf4-4e64889b537f](https://user-images.githubusercontent.com/102905328/168475057-cc680b45-def4-42f6-8d36-5b2aa4319437.png)
